@@ -1,5 +1,4 @@
 # BiswaCoin
-> Documentation pending
 
 Blockchain's proof of work implementation based on [cointelegraph.com's article](https://cointelegraph.com/explained/proof-of-work-explained)
 - Uses sha256 hashing algorithm
