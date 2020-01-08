@@ -6,6 +6,7 @@ Blockchain's proof of work implementation based on [cointelegraph.com's article]
 - Finds a random hash which has leading "difficulty" no of zeros (default difficulty is 3)
 - Displays time taken for work, wrong hash's and correct hash
 
+
 ## What is BiswaCoin?
 
 BiswaCoin provides a command line interface (CLI) to mine transactions between two address (Add1 & Add2) based on proof of work algorithm. The work is to find a sha256 hash sequence which has leading "difficulty" no of zeros (default difficulty is 3, Example: 000e3d24e5a....). Thus, work efficency is measured using time.
@@ -17,6 +18,8 @@ BiswaCoin provides a command line interface (CLI) to mine transactions between t
 * [Crypto-js](https://www.npmjs.com/package/crypto-js)
 
 ## Common setup
+
+![Intro](https://cdn.biswas.coffee/svgs/biswaCoin_intro.svg)
 
 Clone the repo.
 
